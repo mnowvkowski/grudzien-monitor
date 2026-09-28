@@ -1,0 +1,18 @@
+[
+  {
+    "key": "grudzien-26",
+    "name": "Groszek Grudzień 26 MJ",
+    "url": "https://grudzien.eu/produkt/groszek-grudzien-26-mj/?attribute_akcyza=Gospodarstwo%20domowe",
+    "product_id": 963,
+    "variation_id": 2391,
+    "attributes": {"attribute_akcyza": "Gospodarstwo domowe"}
+  },
+  {
+    "key": "grudzien-29",
+    "name": "Groszek Grudzień 29 MJ",
+    "url": "https://grudzien.eu/produkt/groszek-grudzien-29-mj/?attribute_akcyza=Gospodarstwo%20domowe",
+    "product_id": 960,
+    "variation_id": 2398,
+    "attributes": {"attribute_akcyza": "Gospodarstwo domowe"}
+  }
+]

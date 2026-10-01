@@ -3,11 +3,11 @@
   "products": {
     "grudzien-26": {
       "available": false,
-      "observed_at": "2026-09-30T02:13:46+00:00"
+      "observed_at": "2026-10-01T02:25:42+00:00"
     },
     "grudzien-29": {
       "available": false,
-      "observed_at": "2026-09-30T02:13:47+00:00"
+      "observed_at": "2026-10-01T02:25:44+00:00"
     }
   },
   "failures": {}

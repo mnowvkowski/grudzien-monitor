@@ -6,8 +6,8 @@
       "observed_at": "2026-10-05T00:33:36+00:00"
     },
     "grudzien-29": {
-      "available": false,
-      "observed_at": "2026-10-05T00:33:38+00:00"
+      "available": true,
+      "observed_at": "2026-10-05T14:28:55+00:00"
     }
   },
   "failures": {}
